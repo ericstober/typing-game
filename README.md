@@ -7,6 +7,7 @@ A simple, browser-based typing game built with HTML, CSS, and JavaScript. This p
 - Real-time typing feedback
 - Clean and responsive UI
 - Minimalist codebase—ideal for learning or extending
+- Three difficulty settings
 
 ## Getting Started
 
