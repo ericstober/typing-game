@@ -25,7 +25,3 @@ cd typing-game
 - `index.html` — Main HTML file with game layout
 - `style.css` — Styling for the game interface
 - `script.js` — Core game logic and interactivity
-
-## License
-
-This project is open source and available under the MIT License.
